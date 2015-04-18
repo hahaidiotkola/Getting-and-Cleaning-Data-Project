@@ -1,6 +1,6 @@
 This is the course project of 'Getting and Cleaning Data'.
 The purpose of this assignment is to show the students' abilities to collect, work with and clean the untidy data sets.
-The The aim is to create a tidy data set by writing a R scrpt accomplishing the following steps: 
+The aim is to create a tidy data set by writing a R scrpt to accomplish the following steps: 
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
