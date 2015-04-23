@@ -63,7 +63,8 @@
         row = row + 1
       }
     } 
-    write.table(output, "NeatData_Averages.txt")
+    write.table(output, "NeatData_Averages.txt", row.names = FALSE)
+
 
 
     
